@@ -1,0 +1,44 @@
+2022-07-05 10:12:46.610 INFO [main] [utils.LoggerManager.logMessage(LoggerManager.java:35)] - Initializing API Manager
+2022-07-05 10:12:46.620 INFO [main] [utils.LoggerManager.logMessage(LoggerManager.java:35)] - Reading properties file
+2022-07-05 10:13:38.043 INFO [main] [utils.LoggerManager.logMessage(LoggerManager.java:35)] - Initializing API Manager
+2022-07-05 10:13:38.046 INFO [main] [utils.LoggerManager.logMessage(LoggerManager.java:35)] - Reading properties file
+2022-07-05 10:19:13.761 INFO [main] [utils.LoggerManager.logMessage(LoggerManager.java:35)] - Initializing API Manager
+2022-07-05 10:19:13.773 INFO [main] [utils.LoggerManager.logMessage(LoggerManager.java:35)] - Reading properties file
+2022-07-05 10:43:53.020 INFO [main] [utils.LoggerManager.logMessage(LoggerManager.java:35)] - Initializing API Manager
+2022-07-05 10:43:53.032 INFO [main] [utils.LoggerManager.logMessage(LoggerManager.java:35)] - Reading properties file
+2022-07-05 10:49:28.158 INFO [main] [utils.LoggerManager.logMessage(LoggerManager.java:35)] - Initializing API Manager
+2022-07-05 10:49:28.163 INFO [main] [utils.LoggerManager.logMessage(LoggerManager.java:35)] - Reading properties file
+2022-07-05 10:50:42.538 INFO [main] [utils.LoggerManager.logMessage(LoggerManager.java:35)] - Initializing API Manager
+2022-07-05 10:50:42.542 INFO [main] [utils.LoggerManager.logMessage(LoggerManager.java:35)] - Reading properties file
+2022-07-05 10:55:51.294 INFO [Test worker] [utils.LoggerManager.logMessage(LoggerManager.java:35)] - Initializing API Manager
+2022-07-05 10:55:51.300 INFO [Test worker] [utils.LoggerManager.logMessage(LoggerManager.java:35)] - Reading properties file
+2022-07-05 11:01:21.436 INFO [Test worker] [utils.LoggerManager.logMessage(LoggerManager.java:35)] - Initializing API Manager
+2022-07-05 11:01:21.440 INFO [Test worker] [utils.LoggerManager.logMessage(LoggerManager.java:35)] - Reading properties file
+2022-07-05 11:04:18.844 INFO [Test worker] [utils.LoggerManager.logMessage(LoggerManager.java:35)] - Reading credentials
+2022-07-05 11:04:18.847 WARN [Test worker] [utils.LoggerManager.logMessage(LoggerManager.java:36)] - Reading credentials
+2022-07-05 11:04:18.847 INFO [Test worker] [utils.LoggerManager.logMessage(LoggerManager.java:35)] - Todo.ly Environment Id --> QA01
+2022-07-05 11:04:18.847 WARN [Test worker] [utils.LoggerManager.logMessage(LoggerManager.java:36)] - Todo.ly Environment Id --> QA01
+2022-07-05 11:04:18.849 INFO [Test worker] [utils.LoggerManager.logMessage(LoggerManager.java:35)] - Loading file
+2022-07-05 11:04:18.849 WARN [Test worker] [utils.LoggerManager.logMessage(LoggerManager.java:36)] - Loading file
+2022-07-05 11:04:18.852 INFO [Test worker] [utils.LoggerManager.logMessage(LoggerManager.java:35)] - Loading file
+2022-07-05 11:04:18.852 WARN [Test worker] [utils.LoggerManager.logMessage(LoggerManager.java:36)] - Loading file
+2022-07-05 11:04:18.852 INFO [Test worker] [utils.LoggerManager.logMessage(LoggerManager.java:35)] - Loading file
+2022-07-05 11:04:18.852 WARN [Test worker] [utils.LoggerManager.logMessage(LoggerManager.java:36)] - Loading file
+2022-07-05 11:04:20.316 INFO [Test worker] [utils.LoggerManager.logMessage(LoggerManager.java:35)] - Reading properties file
+2022-07-05 11:04:20.317 WARN [Test worker] [utils.LoggerManager.logMessage(LoggerManager.java:36)] - Reading properties file
+2022-07-05 11:04:20.319 INFO [Test worker] [utils.LoggerManager.logMessage(LoggerManager.java:35)] - Initializing API Manager
+2022-07-05 11:04:20.319 WARN [Test worker] [utils.LoggerManager.logMessage(LoggerManager.java:36)] - Initializing API Manager
+2022-07-05 11:04:37.734 INFO [Test worker] [utils.LoggerManager.logMessage(LoggerManager.java:35)] - Deleting Project 4007171
+2022-07-05 11:04:37.734 WARN [Test worker] [utils.LoggerManager.logMessage(LoggerManager.java:36)] - Deleting Project 4007171
+2022-07-05 11:04:38.797 INFO [Test worker] [utils.LoggerManager.logMessage(LoggerManager.java:35)] - Deleting Project 4007172
+2022-07-05 11:04:38.798 WARN [Test worker] [utils.LoggerManager.logMessage(LoggerManager.java:36)] - Deleting Project 4007172
+2022-07-05 11:04:48.023 INFO [Test worker] [utils.LoggerManager.logMessage(LoggerManager.java:35)] - Deleting Project 4007173
+2022-07-05 11:04:48.024 WARN [Test worker] [utils.LoggerManager.logMessage(LoggerManager.java:36)] - Deleting Project 4007173
+2022-07-05 11:04:49.191 INFO [Test worker] [utils.LoggerManager.logMessage(LoggerManager.java:35)] - Deleting Project 4007174
+2022-07-05 11:04:49.191 WARN [Test worker] [utils.LoggerManager.logMessage(LoggerManager.java:36)] - Deleting Project 4007174
+2022-07-05 11:04:50.283 INFO [Test worker] [utils.LoggerManager.logMessage(LoggerManager.java:35)] - Deleting Project 4007175
+2022-07-05 11:04:50.283 WARN [Test worker] [utils.LoggerManager.logMessage(LoggerManager.java:36)] - Deleting Project 4007175
+2022-07-05 17:03:31.903 INFO [Test worker] [utils.LoggerManager.logMessage(LoggerManager.java:35)] - Initializing API Manager
+2022-07-05 17:03:31.920 WARN [Test worker] [utils.LoggerManager.logMessage(LoggerManager.java:36)] - Initializing API Manager
+2022-07-05 17:03:31.922 INFO [Test worker] [utils.LoggerManager.logMessage(LoggerManager.java:35)] - Reading properties file
+2022-07-05 17:03:31.922 WARN [Test worker] [utils.LoggerManager.logMessage(LoggerManager.java:36)] - Reading properties file

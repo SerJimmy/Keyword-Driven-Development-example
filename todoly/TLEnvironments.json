@@ -1,0 +1,10 @@
+{
+  "Environments": {
+    "QA01" : {
+        "baseURL": "https://todo.ly"
+    },
+    "DEV02" : {
+      "baseURL": "https://todo.ly"
+    }
+  }
+}

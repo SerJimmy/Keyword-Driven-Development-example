@@ -1,0 +1,266 @@
+[
+    {
+        "Id": 3951547,
+        "Content": "Work",
+        "ItemsCount": 5,
+        "Icon": -5,
+        "ItemType": 2,
+        "ParentId": null,
+        "Collapsed": false,
+        "ItemOrder": 1,
+        "Children": [
+            {
+                "Id": 3951548,
+*                "Content": "Sub Project",
+!                "ItemsCount": 0,
+                "Icon": 10,
+                "ItemType": 2,
+%                "ParentId": 3951547,
+$                "Collapsed": false,
+                 "ItemOrder": 1,
+                "Children": [
+                    
+                ],
+*                "IsProjectShared": false,
+/                "ProjectShareOwnerName": null,
+0                "ProjectShareOwnerEmail": null,
+*                "IsShareApproved": false,
+&                "IsOwnProject": true,
+?                "LastSyncedDateTime": "/Date(1657054997533)/",
+<                "LastUpdatedDate": "/Date(1634596394050)/",
+"                "Deleted": false,
+-                "SyncClientCreationId": null
+            }
+        ],
+"        "IsProjectShared": false,
+'        "ProjectShareOwnerName": null,
+(        "ProjectShareOwnerEmail": null,
+"        "IsShareApproved": false,
+        "IsOwnProject": true,
+7        "LastSyncedDateTime": "/Date(1657054997533)/",
+4        "LastUpdatedDate": "/Date(1655951119010)/",
+        "Deleted": false,
+%        "SyncClientCreationId": null
+    },
+    {
+        "Id": 3951549,
+        "Content": "Home",
+        "ItemsCount": 0,
+        "Icon": 1,
+        "ItemType": 2,
+        "ParentId": null,
+        "Collapsed": false,
+        "ItemOrder": 2,
+        "Children": [
+            
+        ],
+"        "IsProjectShared": false,
+'        "ProjectShareOwnerName": null,
+(        "ProjectShareOwnerEmail": null,
+"        "IsShareApproved": false,
+        "IsOwnProject": true,
+7        "LastSyncedDateTime": "/Date(1657054997533)/",
+4        "LastUpdatedDate": "/Date(1634596394067)/",
+        "Deleted": false,
+%        "SyncClientCreationId": null
+    },
+    {
+        "Id": 3951550,
+        "Content": "Study",
+        "ItemsCount": 0,
+        "Icon": 4,
+        "ItemType": 2,
+        "ParentId": null,
+        "Collapsed": false,
+        "ItemOrder": 3,
+        "Children": [
+            
+        ],
+"        "IsProjectShared": false,
+'        "ProjectShareOwnerName": null,
+(        "ProjectShareOwnerEmail": null,
+"        "IsShareApproved": false,
+        "IsOwnProject": true,
+7        "LastSyncedDateTime": "/Date(1657054997533)/",
+4        "LastUpdatedDate": "/Date(1634596394067)/",
+        "Deleted": false,
+%        "SyncClientCreationId": null
+    },
+    {
+        "Id": 3951551,
+        "Content": "Personal",
+        "ItemsCount": 0,
+        "Icon": 6,
+        "ItemType": 2,
+        "ParentId": null,
+        "Collapsed": false,
+        "ItemOrder": 4,
+        "Children": [
+            
+        ],
+"        "IsProjectShared": false,
+'        "ProjectShareOwnerName": null,
+(        "ProjectShareOwnerEmail": null,
+"        "IsShareApproved": false,
+        "IsOwnProject": true,
+7        "LastSyncedDateTime": "/Date(1657054997533)/",
+4        "LastUpdatedDate": "/Date(1656018694430)/",
+        "Deleted": false,
+%        "SyncClientCreationId": null
+    },
+    {
+        "Id": 3951552,
+$        "Content": "Shopping List",
+        "ItemsCount": 0,
+        "Icon": 14,
+        "ItemType": 2,
+        "ParentId": null,
+        "Collapsed": false,
+        "ItemOrder": 5,
+        "Children": [
+            
+        ],
+"        "IsProjectShared": false,
+'        "ProjectShareOwnerName": null,
+(        "ProjectShareOwnerEmail": null,
+"        "IsShareApproved": false,
+        "IsOwnProject": true,
+7        "LastSyncedDateTime": "/Date(1657054997549)/",
+4        "LastUpdatedDate": "/Date(1634596394080)/",
+        "Deleted": false,
+%        "SyncClientCreationId": null
+    }
+]
+[
+    {
+        "Id": 3951547,
+        "Content": "Work",
+        "ItemsCount": 5,
+        "Icon": -5,
+        "ItemType": 2,
+        "ParentId": null,
+        "Collapsed": false,
+        "ItemOrder": 1,
+        "Children": [
+            {
+                "Id": 3951548,
+*                "Content": "Sub Project",
+!                "ItemsCount": 0,
+                "Icon": 10,
+                "ItemType": 2,
+%                "ParentId": 3951547,
+$                "Collapsed": false,
+                 "ItemOrder": 1,
+                "Children": [
+                    
+                ],
+*                "IsProjectShared": false,
+/                "ProjectShareOwnerName": null,
+0                "ProjectShareOwnerEmail": null,
+*                "IsShareApproved": false,
+&                "IsOwnProject": true,
+?                "LastSyncedDateTime": "/Date(1657054997533)/",
+<                "LastUpdatedDate": "/Date(1634596394050)/",
+"                "Deleted": false,
+-                "SyncClientCreationId": null
+            }
+        ],
+"        "IsProjectShared": false,
+'        "ProjectShareOwnerName": null,
+(        "ProjectShareOwnerEmail": null,
+"        "IsShareApproved": false,
+        "IsOwnProject": true,
+7        "LastSyncedDateTime": "/Date(1657054997533)/",
+4        "LastUpdatedDate": "/Date(1655951119010)/",
+        "Deleted": false,
+%        "SyncClientCreationId": null
+    },
+    {
+        "Id": 3951549,
+        "Content": "Home",
+        "ItemsCount": 0,
+        "Icon": 1,
+        "ItemType": 2,
+        "ParentId": null,
+        "Collapsed": false,
+        "ItemOrder": 2,
+        "Children": [
+            
+        ],
+"        "IsProjectShared": false,
+'        "ProjectShareOwnerName": null,
+(        "ProjectShareOwnerEmail": null,
+"        "IsShareApproved": false,
+        "IsOwnProject": true,
+7        "LastSyncedDateTime": "/Date(1657054997533)/",
+4        "LastUpdatedDate": "/Date(1634596394067)/",
+        "Deleted": false,
+%        "SyncClientCreationId": null
+    },
+    {
+        "Id": 3951550,
+        "Content": "Study",
+        "ItemsCount": 0,
+        "Icon": 4,
+        "ItemType": 2,
+        "ParentId": null,
+        "Collapsed": false,
+        "ItemOrder": 3,
+        "Children": [
+            
+        ],
+"        "IsProjectShared": false,
+'        "ProjectShareOwnerName": null,
+(        "ProjectShareOwnerEmail": null,
+"        "IsShareApproved": false,
+        "IsOwnProject": true,
+7        "LastSyncedDateTime": "/Date(1657054997533)/",
+4        "LastUpdatedDate": "/Date(1634596394067)/",
+        "Deleted": false,
+%        "SyncClientCreationId": null
+    },
+    {
+        "Id": 3951551,
+        "Content": "Personal",
+        "ItemsCount": 0,
+        "Icon": 6,
+        "ItemType": 2,
+        "ParentId": null,
+        "Collapsed": false,
+        "ItemOrder": 4,
+        "Children": [
+            
+        ],
+"        "IsProjectShared": false,
+'        "ProjectShareOwnerName": null,
+(        "ProjectShareOwnerEmail": null,
+"        "IsShareApproved": false,
+        "IsOwnProject": true,
+7        "LastSyncedDateTime": "/Date(1657054997533)/",
+4        "LastUpdatedDate": "/Date(1656018694430)/",
+        "Deleted": false,
+%        "SyncClientCreationId": null
+    },
+    {
+        "Id": 3951552,
+$        "Content": "Shopping List",
+        "ItemsCount": 0,
+        "Icon": 14,
+        "ItemType": 2,
+        "ParentId": null,
+        "Collapsed": false,
+        "ItemOrder": 5,
+        "Children": [
+            
+        ],
+"        "IsProjectShared": false,
+'        "ProjectShareOwnerName": null,
+(        "ProjectShareOwnerEmail": null,
+"        "IsShareApproved": false,
+        "IsOwnProject": true,
+7        "LastSyncedDateTime": "/Date(1657054997549)/",
+4        "LastUpdatedDate": "/Date(1634596394080)/",
+        "Deleted": false,
+%        "SyncClientCreationId": null
+    }
+]

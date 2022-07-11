@@ -1,0 +1,16 @@
+{
+  "Users": {
+    "validUser": {
+      "userName": "bmvclwtcbeqsergdrp@pptrvv.com",
+      "password": "Control123!"
+    },
+    "invalidUser": {
+      "userName": "test@test.com",
+      "password": "test123!"
+    },
+    "adminUser" : {
+      "userName": "bmvclwtcbeqsergdrp@pptrvv.com",
+      "password": "Control123!"
+    }
+  }
+}
